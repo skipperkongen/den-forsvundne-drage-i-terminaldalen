@@ -89,7 +89,7 @@ git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
 Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at komme igang. Bruge `cd` kommandoen for at åbne
 den mappe, som indeholder eventyret. Du skal muligvis bruge `cd` kommandoen et par gange for at komme ind i den rigtige mappe, som indeholder eventyret:
 
-Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd eventyr`.
+Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd eventyr`. Du kan gå tilbage til det sted du var før ved hjælp af kommandoen `cd ..`. 
 
 ```
 ┌──────────────────────────────────────────────────────────┐
