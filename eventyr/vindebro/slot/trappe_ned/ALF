@@ -1,0 +1,34 @@
+I slottets underjordiske labyrint møder du en lille alfepige. Alfen er på højde
+med et æble og har to vinger, som hun kan flyve med.
+
+```
+ __       __          .--.
+(  ""--__(  ""-_    ,' .-.\        *
+ "-_ __  ""--__ "-_(  (^_^))      /
+    (  """--___""--__" )-'(      /
+     "-__      ""---/ ,(., )__o-/,
+         """----___(.'.   /--"--'
+                   ("-_"/(    /
+                    \   \ \
+                     `.  \ |
+                       \  \/
+                       ||  \
+                     ,-'/`. \
+                     ) /   ) \
+                     |/    `-.\
+                              `\
+```
+
+ALF:
+"Åh, kongen er et gigantisk rodehoved. Han har ansat mig til at finde sine
+ting for ham når de bliver væk. Og de bliver hele tiden væk i labyrinten. Hans
+tåbelige kæledyr farer konstant vild i de mange gange. Heldigvis har jeg
+lavet en trylleformular så jeg nemt kan finde dem igen!
+
+Hvis jeg vil finde en ELEFANT, så skriver jeg bare:
+
+find . -f ELEFANT
+
+Og vupti, så lyser en vej til elefanten på magisk vis op i støvet.
+Den trylleformular har sparet mig for mange timers søgen!!
+"

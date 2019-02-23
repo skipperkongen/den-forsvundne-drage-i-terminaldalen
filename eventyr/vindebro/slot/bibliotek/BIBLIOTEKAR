@@ -1,0 +1,39 @@
+Der står en bibliotekar og stiller bøger på plads. Kongen har et stort
+bibliotek og hun lader til at have travlt.
+
+```
+      (___)
+     /`   `\
+    /  /"\  \
+    \_/o o\_/
+     (  _  )
+      `\ /`
+     /\\V//\
+    / /_ _\ \
+    \ \___/ /
+     \/===\/
+     ||   ||
+     ||   ||
+     ||___||
+     |_____|
+       |||
+      / Y \
+      `"`"`
+```
+
+BIBLIOTEKAR:
+"Åh, den dovne konge. Han har så mange bøger, men det eneste der interesserer
+ham er VITSER og så hans fordømte DAGBOG. Hver eneste dag kommer han ned
+og beder om den så han kan tilføje dagens bedrifter til den. Jeg åbnede den
+engang og nøj hvor var den kedelig!
+
+Jeg har købt en maskine, som hedder Grep. Den kan hjælpe mig med at finde de spændende
+dele af enhver bog. Hvis jeg f.eks. gerne vil finde noget om "drageflyvning" i bogen FARLIGE_HOBBYER,
+så skriver jeg bare.
+
+grep "drageflyvning" FARLIGE_HOBBYER.bog
+
+Jeg fandt engang noget spændende i kongens dagbog. Det er ikke meningen at jeg
+skal læse den, men jeg fandt da ud af at han godt kan lide dyr! Hvem skulle tro at
+en person, som er siges at være så ond, godt kan lide dyr?
+"

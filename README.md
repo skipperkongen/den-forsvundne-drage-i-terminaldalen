@@ -59,15 +59,36 @@ Du starter eventyret på en vindebro der leder ind til kongens slot. Held og lyk
 
 ## Sådan gør du
 
+> Eventyret er til alle børn i alderen 7-15 år, som gerne vil lære at bruge Unix kommandoer.
+
 For at starte eventyret, skal du clone dette repository på en
 *Unix computer, f.eks. en Mac OS X, Linux, Unix eller FreeBSD
 computer.
 
-Du kan clone eventyret med kommandoen:
+### Hent en kopi af eventyret
+
+Du kan clone eventyret med `git` kommandoen:
 
 ```
-git clone git@github.com:skipperkongen/skattejagt-i-terminalen.git
+git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
 ```
 
+Alternativt, kan du downloade en zip-fil med eventyret:
 
-Eventyret er til alle børn i alderen 7-15 år, som gerne vil lære at bruge Unix kommandoer.
+```
+wget https://github.com/skipperkongen/den-forsvundne-drage-i-terminaldalen/archive/master.zip
+unzip master.zip
+```
+
+### Start eventyret
+
+Når du har hentet en kopi af eventyret skal du åbne det for at komme igang. Bruge `cd` kommandoen for at åbne
+den mappe, som indeholder eventyret:
+
+```
+cd den-forsvundne-drage-i-terminaldalen/eventyr
+```
+
+Du kan bruge kommandoen `ls` til at se dig omkring. Du kan bruge kommandoen `cat` til at se nærmere på en ting.
+
+Held og lykke!
