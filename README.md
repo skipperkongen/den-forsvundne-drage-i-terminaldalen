@@ -52,6 +52,8 @@ Du starter eventyret på en vindebro der leder ind til kongens slot. Held og lyk
               __ ||: . ||: ,  |+++++++|.  . _||_   |
      ____--`~    '--~~__|.    |+++++__|----~    ~`---,              ___
 -~--~                   ~---__|,--~'                  ~~----_____-~'   `~----~~
+                             /  -   _  \
+                            /  -   -_   \
 ```
 
 
