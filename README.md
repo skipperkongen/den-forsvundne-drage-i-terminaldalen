@@ -61,9 +61,9 @@ Du starter eventyret på en vindebro der leder ind til kongens slot. Held og lyk
 
 > Eventyret er til alle børn i alderen 7-15 år, som gerne vil lære at bruge Unix kommandoer.
 
-For at starte eventyret, skal du clone dette repository på en
-*Unix computer, f.eks. en Mac OS X, Linux, Unix eller FreeBSD
-computer.
+For at starte eventyret, skal du hente en kopi af dette repository på en
+Unix-lignende computer, f.eks. en computer med Mac OS X, Linux, Unix eller FreeBSD
+installeret.
 
 ### Hent en kopi af eventyret
 
