@@ -1,4 +1,4 @@
-Du træder ind i et helt mørkt rum. Der hænger en lommelygte på døren, som du kan bruge
+Du træder ind i en helt mørk sal. Der hænger en lommelygte på døren, som du kan bruge
 til at se med.
 
 ```
@@ -12,6 +12,3 @@ til at se med.
 Du lyser med lommelygten ved at skrive:
 
 ls -a
-
-Når du bruger lommelygten til at se, kan du nogle gange se nye ting, som du ikke
-kunne se før.
