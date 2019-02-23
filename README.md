@@ -27,7 +27,7 @@ _#/|##########/\######(   /\   )######/\##########|\#_
 ```
 
 Dragen bliver holdt fanget af en magisk lænke, som kun kan låses op hvis du kender kongens hemmelige kodeord.
-Kongen er dårlig til computer-sikkerhed og har brugt navnene på sine kæledyr som adgangskode. Din opgave er derfor at finde ud af hvad kongens kæledyr hedder og sætte dem sammen til en adgangskode. Kongen har følgende kæledyr:
+Kongen er dårlig til computer-sikkerhed og har brugt navnene på sine kæledyr som adgangskode. Din opgave er derfor at finde ud af hvad kongens kæledyr hedder og sætte navnene sammen til en adgangskode. Kongen har følgende kæledyr:
 
 - En hest
 - En guldfisk
