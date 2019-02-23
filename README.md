@@ -89,7 +89,7 @@ Dette eventyr foregår 100% i terminalen. På en Mac OS X computer kan du åbne 
 │ Last login: Sat Feb 23 18:54:23 on ttys001               │
 │ helten$ cd den-forsvundne-drage-i-terminaldalen/eventyr  │
 │ helten$ ls                                               │
-│ README.md		eventyr                                      │
+│ README.md   eventyr                                      │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
