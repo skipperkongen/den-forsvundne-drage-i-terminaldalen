@@ -1,9 +1,15 @@
 
-En hvid kat sidder for enden af gangen. 
-Der står Wozniak på dens navneskilt.
+Der sidder en hvid kat for enden af gangen.
+Der står "Wozniak" på dens navneskilt.
 
-    /\__/   /`    ' === 0  0 ===
+```
+    /\__/\
+   /`    '\
+ === 0  0 ===
    \  --  /
-  /         /          |            |
+  /   wz   \
+ /          \
+|            |
  \  ||  ||  /
   \_oo__oo_/#######o
+```
