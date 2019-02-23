@@ -68,7 +68,7 @@ installeret. På Windows kan du bruge [Linux Bash Shell](https://www.howtogeek.c
 
 ### Hent en kopi af eventyret
 
-Du kan downloade en zip-fil med eventyret:
+Du kan downloade en [zip-fil](https://github.com/skipperkongen/den-forsvundne-drage-i-terminaldalen/archive/master.zip) med eventyret:
 
 ```
 wget https://github.com/skipperkongen/den-forsvundne-drage-i-terminaldalen/archive/master.zip
