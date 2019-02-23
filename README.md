@@ -108,7 +108,7 @@ Du kan bruge kommandoen `ls` til at se dig omkring på et sted.
 └──────────────────────────────────────────────────────────┘
 ```
 
-Navne med STORE bogstaver er *ting*, så ovenfor så du både en ting (`BREV`) og et sted (`vindebro`). Se nærmere på ting med kommandoen `cat`.
+Navne med STORE bogstaver er *ting*, så ovenfor så du både en ting (`BREV`) og et sted (`vindebro`). Se nærmere på ting med kommandoen `cat`. Hvis tingen er stor, f.eks. en bog, er det bedre at kigge med kommandoen `less` (tryk på tasten "q" for at komme ud igen). 
 
 ```
 ┌──────────────────────────────────────────────────────────┐
