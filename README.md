@@ -1,5 +1,8 @@
 # Den Forsvundne Drage i Terminaldalen
 
+> Eventyret er tænkt til alle børn i alderen 7-15 år, som gerne vil lære at bruge Unix kommandoer.
+
+
 Velkommen til et spændende eventyr med drager, alfer og magi,
 som vil udfolde sig i Terminaldalen. En ond konge har taget
 en troldmands drage til fange. Din opgave er at befri dragen.
@@ -59,11 +62,9 @@ Du starter eventyret på en vindebro der leder ind til kongens slot. Held og lyk
 
 ## Sådan gør du
 
-> Eventyret er til alle børn i alderen 7-15 år, som gerne vil lære at bruge Unix kommandoer.
-
 For at starte eventyret, skal du hente en kopi af dette repository på en
 Unix-lignende computer, f.eks. en computer med Mac OS X, Linux, Unix eller FreeBSD
-installeret.
+installeret. På Windows kan du bruge [Linux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/).
 
 ### Hent en kopi af eventyret
 
