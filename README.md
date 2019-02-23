@@ -98,7 +98,7 @@ Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `c
 └──────────────────────────────────────────────────────────┘
 ```
 
-Du kan bruge kommandoen `ls` til at se dig omkring på et sted. Når du bruger `ls` kan du se både steder og ting.
+Du kan bruge kommandoen `ls` til at se dig omkring på et sted. Når du bruger `ls` kan du både se steder og ting.
 
 ```
 ┌──────────────────────────────────────────────────────────┐
