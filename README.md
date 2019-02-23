@@ -67,18 +67,19 @@ installeret.
 
 ### Hent en kopi af eventyret
 
-Du kan clone eventyret med `git` kommandoen:
-
-```
-git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
-```
-
-Alternativt, kan du downloade en zip-fil med eventyret:
+Du kan downloade en zip-fil med eventyret:
 
 ```
 wget https://github.com/skipperkongen/den-forsvundne-drage-i-terminaldalen/archive/master.zip
 unzip master.zip
 ```
+
+Alternativt, kan du clone eventyret med `git` kommandoen:
+
+```
+git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
+```
+
 
 ### Start eventyret
 
