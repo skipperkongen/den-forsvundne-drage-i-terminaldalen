@@ -1,5 +1,9 @@
 # Den Forsvundne Drage i Terminaldalen
 
+Velkommen til et spændende eventyr med drager, alfer og magi,
+som vil udfolde sig i Terminaldalen. En ond konge har taget
+en troldmands drage til fange. Din opgave er at befri dragen.
+
 ```
                  ______====-_  _-====___
            __--^^^#####//      \\#####^^^--_
@@ -18,10 +22,6 @@ _#/|##########/\######(   /\   )######/\##########|\#_
                    __\ | |  | | /__
                   (vvv(VVV)(VVV)vvv)
 ```
-
-Velkommen til et spændende eventyr med drager, alfer og magi,
-som vil udfolde sig i Terminaldalen. En ond konge har taget
-en troldmands drage til fange. Din opgave er at befri dragen.
 
 Dragen bliver holdt fanget af en magisk lænke, som kun kan låses op hvis du kender kongens hemmelige kodeord.
 Kongen er dårlig til computer-sikkerhed og har brugt navnene på sine kæledyr som adgangskode. Din opgave er derfor at finde ud af hvad kongens kæledyr hedder og sætte dem sammen til en adgangskode. Kongen har følgende kæledyr:
