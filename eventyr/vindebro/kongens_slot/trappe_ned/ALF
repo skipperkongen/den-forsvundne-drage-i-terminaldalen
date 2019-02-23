@@ -27,7 +27,7 @@ lavet en trylleformular så jeg nemt kan finde dem igen!
 
 Hvis jeg vil finde en ELEFANT, så skriver jeg bare:
 
-find . -f ELEFANT
+find . -name ELEFANT
 
 Og vupti, så lyser en vej til elefanten på magisk vis op i støvet.
 Den trylleformular har sparet mig for mange timers søgen!!
