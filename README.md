@@ -88,19 +88,26 @@ git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
 Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at komme igang. Bruge `cd` kommandoen for at åbne
 den mappe, som indeholder eventyret. Du skal muligvis bruge `cd` kommandoen et par gange for at komme ind i den rigtige mappe, som indeholder eventyret:
 
-Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd eventyr`. Du kan bruge kommandoen `ls` til at se dig omkring på et sted. Når du bruger `ls` til at se dig omkring vil du både se steder og ting.
+Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd eventyr`.
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │ Last login: Sat Feb 23 18:54:23 on ttys001               │
 │ helten$ cd den-forsvundne-drage-i-terminaldalen          │
 │ helten$ cd eventyr                                       │
+└──────────────────────────────────────────────────────────┘
+```
+
+Du kan bruge kommandoen `ls` til at se dig omkring på et sted. Når du bruger `ls` kan du se både steder og ting.
+
+```
+┌──────────────────────────────────────────────────────────┐
 │ helten$ ls                                               │
 │ BREV   vindebro                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
-Navne med STORE bogstaver er *ting*, som du kan se nærmere på med kommandoen `cat`.
+Navne med STORE bogstaver er *ting*. Ovenfor kan du både se en ting (`BREV`) og et sted (`vindebro`). Du kan se nærmere på ting med kommandoen `cat`.
 
 ```
 ┌──────────────────────────────────────────────────────────┐
