@@ -99,9 +99,15 @@ Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at k
 den mappe, som indeholder eventyret:
 
 ```
-cd den-forsvundne-drage-i-terminaldalen/eventyr
+┌──────────────────────────────────────────────────────────┐
+│ Last login: Sat Feb 23 18:54:23 on ttys001               │
+│ helten$ cd eventyr                                       │
+│ helten$ ls                                               │
+│ BREV   vindebro                                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-Du kan bruge kommandoen `ls` til at se dig omkring. Du kan bruge kommandoen `cat` til at se nærmere på en ting.
+Du kan bruge kommandoen `ls` til at se dig omkring. Du kan bruge kommandoen `cat` til at se nærmere på en ting. Navne med STORE bogstaver er filer, som du kan åbne med f.eks. `cat BREV`. Navne med små bogstaver er mapper, som du kan gå ind i med f.eks. `cd vindebro`.
 
-Held og lykke!
+God fornøjelse og held og lykke!
