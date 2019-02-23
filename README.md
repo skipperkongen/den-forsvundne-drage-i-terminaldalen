@@ -101,6 +101,7 @@ den mappe, som indeholder eventyret. Du skal muligvis bruge `cd` kommandoen et p
 
 Navne med STORE bogstaver er *ting*, som du kan se nærmere på med kommandoen `cat`.
 
+```
 ┌──────────────────────────────────────────────────────────┐
 │ Last login: Sat Feb 23 18:54:23 on ttys001               │
 │ helten$ cat BREV                                         │
@@ -124,6 +125,7 @@ Navne med STORE bogstaver er *ting*, som du kan se nærmere på med kommandoen `
 │ Kærlig hilsen,                                           │
 │ Filikodus Den Vemodige                                   │
 └──────────────────────────────────────────────────────────┘
+```
 
 Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd vindebro`.
 
