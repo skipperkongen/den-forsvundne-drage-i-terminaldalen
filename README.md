@@ -93,8 +93,8 @@ Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `c
 ```
 ┌──────────────────────────────────────────────────────────┐
 │ Last login: Sat Feb 23 18:54:23 on ttys001               │
-│ helten$ cd den-forsvundne-drage-i-terminaldalen          │
-│ helten$ cd eventyr                                       │
+│ $ cd den-forsvundne-drage-i-terminaldalen                │
+│ $ cd eventyr                                             │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -102,7 +102,7 @@ Du kan bruge kommandoen `ls` til at se dig omkring på et sted. Når du bruger `
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ helten$ ls                                               │
+│ $ ls                                                     │
 │ BREV   vindebro                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -111,8 +111,7 @@ Navne med STORE bogstaver er *ting*, så ovenfor så du både en ting (`BREV`) o
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ Last login: Sat Feb 23 18:54:23 on ttys001               │
-│ helten$ cat BREV                                         │
+│ $ cat BREV                                               │
 │ Oh, modige helt!                                         │
 │ Mit navn er Filikodus Den Vemodige.                      │                  
 │ Jeg fik mit navn efter den onde konge                    │                    
