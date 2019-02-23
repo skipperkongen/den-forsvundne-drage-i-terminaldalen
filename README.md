@@ -82,7 +82,9 @@ unzip master.zip
 
 ### Start eventyret
 
-Når du har hentet en kopi af eventyret skal du åbne det for at komme igang. Bruge `cd` kommandoen for at åbne
+Dette eventyr foregår 100% i terminalen. På en Mac OS X computer kan du åbne terminalen ved at starte programmet "Applications/Utilities/Terminal". Alternativt, kan du bruge Finder ved blot at skrive "Terminal" i søgefeltet og trykke enter. Du skal muligvis bruge `cd` kommandoen et par gange for at komme ind i den rigtige mappe.
+
+Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at komme igang. Bruge `cd` kommandoen for at åbne
 den mappe, som indeholder eventyret:
 
 ```
