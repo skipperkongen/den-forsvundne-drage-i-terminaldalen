@@ -83,24 +83,15 @@ git clone git@github.com:skipperkongen/den-forsvundne-drage-i-terminaldalen.git
 
 ### Start eventyret
 
-Dette eventyr foregår 100% i terminalen. På en Mac OS X computer kan du åbne terminalen ved at starte programmet "Applications/Utilities/Terminal". Alternativt, kan du bruge Finder ved blot at skrive "Terminal" i søgefeltet og trykke enter. Du skal muligvis bruge `cd` kommandoen et par gange for at komme ind i den rigtige mappe, som indeholder eventyret.
+*Vigtigt*: Dette eventyr foregår 100% i terminalen. På en Mac OS X computer kan du åbne terminalen ved at starte programmet "Applications/Utilities/Terminal". Alternativt, kan du bruge Finder ved blot at skrive "Terminal" i søgefeltet og trykke enter.
+
+Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at komme igang. Bruge `cd` kommandoen for at åbne
+den mappe, som indeholder eventyret. Du skal muligvis bruge `cd` kommandoen et par gange for at komme ind i den rigtige mappe, som indeholder eventyret:
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │ Last login: Sat Feb 23 18:54:23 on ttys001               │
 │ helten$ cd den-forsvundne-drage-i-terminaldalen          │
-│ helten$ ls                                               │
-│ README.md   eventyr                                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-Når du har hentet en kopi af eventyret skal du åbne  det i terminalen for at komme igang. Bruge `cd` kommandoen for at åbne
-den mappe, som indeholder eventyret:
-
-```
-┌──────────────────────────────────────────────────────────┐
-│ Last login: Sat Feb 23 18:54:23 on ttys001               │
 │ helten$ cd eventyr                                       │
 │ helten$ ls                                               │
 │ BREV   vindebro                                          │
@@ -108,6 +99,32 @@ den mappe, som indeholder eventyret:
 └──────────────────────────────────────────────────────────┘
 ```
 
-Du kan bruge kommandoen `ls` til at se dig omkring. Du kan bruge kommandoen `cat` til at se nærmere på en ting. Navne med STORE bogstaver er filer, som du kan åbne med f.eks. `cat BREV`. Navne med små bogstaver er mapper, som du kan gå ind i med f.eks. `cd vindebro`.
+Navne med STORE bogstaver er *ting*, som du kan se nærmere på med kommandoen `cat`.
+
+┌──────────────────────────────────────────────────────────┐
+│ Last login: Sat Feb 23 18:54:23 on ttys001               │
+│ helten$ cat BREV                                         │
+│ Oh, modige helt!                                         │
+│ Mit navn er Filikodus Den Vemodige.                      │                  
+│ Jeg fik mit navn efter den onde konge                    │                    
+│ stjal min elskede drage. Han har                         │                                       
+│ spærret den inde i tårnet på sit slot                    │                                      
+│ og lænket den med en magisk kæde. Vil                    │                                         
+│ du befri min drage for mig? Så vil                       │
+│ jeg belønne dig med mere guld end du                     │
+│ nogensinde har set. Jeg ville redde                      │
+│ dragen selv, men desværre har kongens                    │
+│ troldmager kastet en forbandelse på                      │
+│ mig, så jeg aldrig nogensinde vil                        │
+│ kunne betræde slottet igen. Jeg har                      │
+│ hørt at du kan låse den magiske kæde                     │
+│ op hvis du siger navnene på alle                         │
+│ kongens kæledyr efter hinanden.                          │
+│                                                          │
+│ Kærlig hilsen,                                           │
+│ Filikodus Den Vemodige                                   │
+└──────────────────────────────────────────────────────────┘
+
+Navne med små bogstaver er *steder*, som du kan gå til ved at skrive f.eks. `cd vindebro`.
 
 God fornøjelse og held og lykke!
