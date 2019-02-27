@@ -1,0 +1,22 @@
+Hej eventyrer! Her er nogle
+magiske kommandoer, som du
+bl.a. skal bruge på dette eventyr.
+
+Hvis du ser noget med STORE BOGSTAVER,
+så er det en "TING".
+
+Du kan kigge på en ting med kommandoen:
+> less <tingens navn>
+
+Hvis du ser noget med små bogstaver,
+så er det et "sted".
+
+Du kan gå ind i et sted med kommandoen:
+> cd <stedets navn>
+
+Du kan gå tilbage til det rum du kom
+fra med kommandoen:
+> cd ..
+
+Du kan se dig omkring med kommandoen:
+> ls
